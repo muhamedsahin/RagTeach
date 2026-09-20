@@ -796,5 +796,4 @@ Bursa Teknik Üniversitesi · Bilgisayar Mühendisliği
 
 </div>
 
-#   R a g T e a c h  
- 
+#
