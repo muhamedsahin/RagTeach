@@ -1,0 +1,19 @@
+{
+  "name": "ragteach",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/web",
+    "packages/shared"
+  ],
+  "scripts": {
+    "dev:web": "npm run dev --workspace=apps/web",
+    "dev:api": "cd apps/api && .\\.venv\\Scripts\\python -m uvicorn app.main:app --reload --host 0.0.0.0 --port 8000",
+    "build:web": "npm run build --workspace=apps/web",
+    "install:api": "cd apps/api && .\\.venv\\Scripts\\pip install -r requirements.txt"
+  },
+  "overrides": {
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  }
+}

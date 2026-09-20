@@ -1,0 +1,179 @@
+[
+  {
+    "id": "43155b170e92",
+    "title": "FEN LİSESİ 12 BİYOLOJİ 2025",
+    "filename": "c6732769ecf64fb699a815267b32ad9e_FEN LİSESİ 12 BİYOLOJİ 2025.pdf",
+    "page_count": 187,
+    "chunk_count": 1810,
+    "topics": [
+      "2. 2.3.1 Kemosentez Olayı ................................................................"
+    ],
+    "embedding_space": "lexical",
+    "pdf_available": true
+  },
+  {
+    "id": "0e09ac831a50",
+    "title": "FEN LİSESİ 12 BİYOLOJİ 2025",
+    "filename": "03e8f64a5a27436093247d92aefa3a40_FEN LİSESİ 12 BİYOLOJİ 2025.pdf",
+    "page_count": 187,
+    "chunk_count": 1810,
+    "topics": [
+      "2. 2.3.1 Kemosentez Olayı ................................................................"
+    ],
+    "embedding_space": "lexical",
+    "pdf_available": true
+  },
+  {
+    "id": "be034e00add8",
+    "title": "MatrixFlash Pro Technical Manual",
+    "filename": "3f4e5588693b42d69773887af881de1c_MatrixFlash_Pro_Technical_Manual.pdf",
+    "page_count": 57,
+    "chunk_count": 195,
+    "topics": [
+      "2. 1.1 Streaming Multiprocessor (SM) Microarchitecture",
+      "2. 1.2 The Memory Hierarchy & Latency Discrepancy",
+      "2. 1.3 Coalesced Memory Access & 128-Bit Vectorization",
+      "2. 1.4 Shared Memory Bank Conflict Mitigation",
+      "2. 2.1 Mathematical Formulation of N-Dimensional Strides",
+      "2. 2.2 Contiguity Analysis: Row-Major vs Column-Major",
+      "2. 2.3 Zero-Copy Tensor Transformations",
+      "2. 2.4 Broadcasting Algebra with Zero-Stride Dimensions",
+      "2. 2.5 GPU Strided-to-Contiguous Repack Kernel",
+      "2. 3.1 Fused Multiply-Add (FMA) & Vectorized Arithmetic",
+      "2. 3.2 Special Function Units (SFU) vs IEEE Transcendental Intrinsics",
+      "2. 3.3 Deep Learning Activation Functions",
+      "2. 3.4 Numerically Stable Online Softmax & Cross-Entropy",
+      "2. 3.5 Warp-Level Shuffle Reduction Primitives",
+      "2. 4.1 GEMM Formulation & Arithmetic Intensity Analysis",
+      "2. 4.2 The 3-Tier Adaptive Dispatch Architecture",
+      "2. 4.3 Fused Epilogue Architecture: Eliminating Memory Roundtrips",
+      "2. 4.4 Zero-Allocation Hot Path: multiply_into()",
+      "2. 5.1 LU Factorization with Partial Pivoting",
+      "2. 5.2 Cholesky Decomposition for Symmetric Positive-Definite Systems",
+      "2. 5.3 Singular Value Decomposition (SVD)",
+      "2. 5.4 Matrix Exponential via Scaling & Squaring with Padé [13/13]",
+      "2. 6.1 Allocation Overhead & Driver Context Traps",
+      "2. 6.2 MatrixFlash-Pro Fast Block Arena Sub-Allocator"
+    ],
+    "embedding_space": "lexical",
+    "pdf_available": true
+  },
+  {
+    "id": "c074576401b6",
+    "title": "TUBITAK Proje",
+    "filename": "proje_yazma_sabvvffblonu_0.pdf",
+    "page_count": 15,
+    "chunk_count": 128,
+    "topics": [
+      "1. Giriş ve Temel Kavramlar",
+      "2. Kuramsal Çerçeve",
+      "3. Yöntem ve Analiz",
+      "4. Sonuçlar ve Tartışma",
+      "5. İleri Konular"
+    ],
+    "embedding_space": null,
+    "pdf_available": false
+  },
+  {
+    "id": "1670a138c3f8",
+    "title": "TÜBİTAK Proje Yazma Şablonu",
+    "filename": "proje_yazma_sabvvffblonu_0.pdf",
+    "page_count": 15,
+    "chunk_count": 128,
+    "topics": [
+      "1. Giriş ve Temel Kavramlar",
+      "2. Kuramsal Çerçeve",
+      "3. Yöntem ve Analiz",
+      "4. Sonuçlar ve Tartışma",
+      "5. İleri Konular"
+    ],
+    "embedding_space": null,
+    "pdf_available": false
+  },
+  {
+    "id": "c43b070c1751",
+    "title": "Test Belgesi",
+    "filename": "Unnamed1.pdf",
+    "page_count": 1,
+    "chunk_count": 0,
+    "topics": [
+      "1. Giriş ve Temel Kavramlar",
+      "2. Kuramsal Çerçeve",
+      "3. Yöntem ve Analiz",
+      "4. Sonuçlar ve Tartışma",
+      "5. İleri Konular"
+    ],
+    "embedding_space": null,
+    "pdf_available": false
+  },
+  {
+    "id": "3ac4411c4a62",
+    "title": "MatrixFlash_Pro_Technical_Manual",
+    "filename": "dd0d355380f84be598a20a6483b2c543_MatrixFlash_Pro_Technical_Manual.pdf",
+    "page_count": 57,
+    "chunk_count": 128,
+    "topics": [
+      "Computation",
+      "Comprehensive architectural breakdown",
+      "Engineering",
+      "Classification",
+      "Publication",
+      "September",
+      "Executive",
+      "1. The High-Performance Computing Paradox",
+      "In modern deep learning and scientific computing",
+      "Allocation",
+      "Intermediate",
+      "2. The MatrixFlash-Pro Mission",
+      "Dynamically selects between register",
+      "The multiply",
+      "3. The 11 Unified Engine Architecture",
+      "Profiling",
+      "1. Hardware Foundations & NVIDIA GPU Execution Model",
+      "2. Tensor Engine: Multi-Dimensional Strided Math",
+      "3. Mathematical & Element-Wise Operator Engine",
+      "4. High-Performance Linear Algebra & GEMM Engine",
+      "5. Advanced Decompositions & Direct Solvers (LU, SVD, QR, Expm)",
+      "6. Memory Engine: Sub-Allocators & Unified Memory Architecture",
+      "7. Backend Engine: Heterogeneous Compute & Multi-GPU P2P",
+      "8. Execution Engine: Asynchronous Streams & CUDA Graph Replay"
+    ],
+    "embedding_space": null,
+    "pdf_available": true
+  },
+  {
+    "id": "ea9ed731e3d1",
+    "title": "MatrixFlash_Pro_Technical_Manual",
+    "filename": "2e0da70d3c4e46a789afa01b3b4b956e_MatrixFlash_Pro_Technical_Manual.pdf",
+    "page_count": 57,
+    "chunk_count": 128,
+    "topics": [
+      "Computation",
+      "Comprehensive architectural breakdown",
+      "Engineering",
+      "Classification",
+      "Publication",
+      "September",
+      "Executive",
+      "1. The High-Performance Computing Paradox",
+      "In modern deep learning and scientific computing",
+      "Allocation",
+      "Intermediate",
+      "2. The MatrixFlash-Pro Mission",
+      "Dynamically selects between register",
+      "The multiply",
+      "3. The 11 Unified Engine Architecture",
+      "Profiling",
+      "1. Hardware Foundations & NVIDIA GPU Execution Model",
+      "2. Tensor Engine: Multi-Dimensional Strided Math",
+      "3. Mathematical & Element-Wise Operator Engine",
+      "4. High-Performance Linear Algebra & GEMM Engine",
+      "5. Advanced Decompositions & Direct Solvers (LU, SVD, QR, Expm)",
+      "6. Memory Engine: Sub-Allocators & Unified Memory Architecture",
+      "7. Backend Engine: Heterogeneous Compute & Multi-GPU P2P",
+      "8. Execution Engine: Asynchronous Streams & CUDA Graph Replay"
+    ],
+    "embedding_space": null,
+    "pdf_available": true
+  }
+]

@@ -1,0 +1,3 @@
+# Optional natural offline TTS (install separately if desired):
+# pip install kokoro misaki soundfile
+# Without kokoro, RagTeach falls back to Edge-TTS automatically.
